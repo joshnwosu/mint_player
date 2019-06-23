@@ -1,0 +1,14 @@
+:root {
+  --bgColor: #eee;
+  --primaryColor: #44bd70;
+  --fontColor: #555555;
+  --navBG: #e5e5e5;
+  --fillHover: #7fd69d;
+  --headlineColor: #444;
+  --controlBG: rgba(238, 238, 238, 0.5);
+  --headerBottomColor: #eee;
+  --contentTopColor: #f9f9f9;
+  --transColor: #e2e2e2;
+  --over: #d2d2d2;
+  --progressbar: #bebebe;
+}
