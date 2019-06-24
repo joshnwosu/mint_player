@@ -43,4 +43,10 @@ npm run lint
 <!-- ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/). -->
 
+## Dark Theme
+
 ![Black Themes](public/assets/img/dark.png)
+
+## Light Theme
+
+![Black Themes](public/assets/img/light.png)
