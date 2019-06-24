@@ -69,7 +69,7 @@ const mutations = {
 
 const actions = {
   GET_MUSIC_FILES({ commit }) {
-    fs.readFile('path.txt', 'utf-8', (err, buf) => {
+    fs.readFile('path.log', 'utf-8', (err, buf) => {
       if (err) return
       let temp = [buf.toString()]
       scanDir(temp)

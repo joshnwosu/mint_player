@@ -113,7 +113,7 @@ function openFolderDialog() {
     },
     function(filePath) {
       if (filePath) {
-        fs.writeFile('path.txt', filePath, function(err, data) {
+        fs.writeFile('path.log', filePath, function(err, data) {
           if (err) return
         })
         scanDir(filePath)
