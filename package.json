@@ -15,7 +15,7 @@
   "dependencies": {
     "core-js": "^2.6.5",
     "custom-electron-titlebar": "^3.0.8",
-    "decode-uri-component": "^0.2.0",
+    "decode-uri-component": "^0.2.1",
     "diff-arrays-of-objects": "^1.1.2",
     "music-metadata": "^4.0.1",
     "node-notifier": "^5.4.0",
